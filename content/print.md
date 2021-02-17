@@ -8,7 +8,7 @@ draft: false
 
 {{< gallery caption-position="none" >}}
 {{< figure link="/images/PB_permafrost.png" alt="" thumb="-thumb" caption="Permafrost logo ideas." >}}
-{{< figure link="/images/PB_stats.png" alt="" thumb="-thumb" caption="Isometric info graphic." >}}
+{{< figure link="/images/PB_stats.png" alt="" thumb="-thumb" caption="Annual stats infographic." >}}
 {{< figure link="/images/PB_report.png" alt="" thumb="-thumb" caption="Annual report design concept." >}}
 {{< figure link="/images/PB_dr1.png" alt="" thumb="-thumb" caption="Report cover page." >}}
 {{< figure link="/images/PB_olrc.png" alt="" thumb="-thumb" caption="Ontario Library Research Cloud logo and log in page." >}}
