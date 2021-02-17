@@ -1,0 +1,93 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Bart Kawula Portfolio"
+theme = ""
+publishDir = "docs"
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = ""
+# Define how many posts should appear on a site
+paginate = 10
+
+[params]
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = ""
+	description = ""
+
+
+	# Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	# Add read time estimates in the format "X min read"
+	show_read_time = false
+
+	# Add custom assets with their paths relative to the static folder
+	custom_js   = []
+	custom_css  = []
+
+
+	[params.sidebar]
+		# Replace the avatar with a picture of your own under static/images
+		logo = "logo-02.png"	
+
+	[params.about]
+
+	[params.recentposts]
+		hide  = true
+		title = "Recent blog posts"
+
+	[params.contact]
+		hide  = true
+		title = ""
+		content = ""
+		email = ""
+
+		[params.contact.form]
+			# Set custom strings for the form if your native
+			# language isn't English
+			name = "Name"
+			email = "Email"
+			message = "Message"
+			submit = "Send message"
+
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "Books"
+	url  = "/#books"
+	weight = 10
+
+[[menu.main]]
+	name = "Journals"
+	URL  = "/#journals"
+	weight = 11
+
+[[menu.main]]
+	name = "<odesi>"
+	URL  = "/#data"
+	weight = 12
+
+[[menu.main]]
+	name = "ACE"
+	URL  = "/#ace"
+	weight = 13
+
+[[menu.main]]
+	name = "Forms"
+	URL  = "/#forms"
+	weight = 14
+
+[[menu.main]]
+	name = "OCUL"
+	URL  = "/#ocul-site"
+	weight = 15
+
+[[menu.main]]
+	name = "Scholars Portal"
+	URL  = "/#scholars"
+	weight = 16
+
+[[menu.main]]
+	name = "Print & Branding"
+	URL  = "/#print"
+	weight = 17

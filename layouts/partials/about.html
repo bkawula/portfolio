@@ -1,0 +1,48 @@
+<section>
+	<div class="section section-one">
+		<h2>Portfolio</h2>
+	</div>
+	<div id="books" class="section section-two">
+		{{ with site.GetPage "books" }}
+  			{{ .Content }}
+		{{ end }}
+		{{ with site.GetPage "admin" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="journals" class="section section-two">
+		{{ with site.GetPage "journals" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="data" class="section section-two">
+		{{ with site.GetPage "odesi" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="ace" class="section section-two">
+		{{ with site.GetPage "ace" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="forms" class="section section-two">
+		{{ with site.GetPage "forms" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="ocul-site" class="section section-two">
+		{{ with site.GetPage "ocul" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="scholars" class="section section-two">
+		{{ with site.GetPage "scholars" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+	<div id="print" class="section">
+		{{ with site.GetPage "print" }}
+  			{{ .Content }}
+		{{ end }}
+	</div>
+</section>
