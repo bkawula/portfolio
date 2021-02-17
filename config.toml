@@ -54,40 +54,40 @@ paginate = 10
 # Menu links that appear on the left sidebar
 [[menu.main]]
 	name = "Books"
-	url  = "/#books"
+	url  = "#books"
 	weight = 10
 
 [[menu.main]]
 	name = "Journals"
-	URL  = "/#journals"
+	URL  = "#journals"
 	weight = 11
 
 [[menu.main]]
 	name = "<odesi>"
-	URL  = "/#data"
+	URL  = "#data"
 	weight = 12
 
 [[menu.main]]
 	name = "ACE"
-	URL  = "/#ace"
+	URL  = "#ace"
 	weight = 13
 
 [[menu.main]]
 	name = "Forms"
-	URL  = "/#forms"
+	URL  = "#forms"
 	weight = 14
 
 [[menu.main]]
 	name = "OCUL"
-	URL  = "/#ocul-site"
+	URL  = "#ocul-site"
 	weight = 15
 
 [[menu.main]]
 	name = "Scholars Portal"
-	URL  = "/#scholars"
+	URL  = "#scholars"
 	weight = 16
 
 [[menu.main]]
 	name = "Print & Branding"
-	URL  = "/#print"
+	URL  = "#print"
 	weight = 17

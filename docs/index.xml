@@ -6,5 +6,128 @@
     <description>Recent content on Bart Kawula Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="//bkawula.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACE Staff Site</title>
+      <link>//bkawula.github.io/portfolio/ace/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/ace/</guid>
+      <description>ACE https://ace.scholarsportal.info
+Roles: Frontend development and UX design.
+Technology: Drupal 8, PHP, Python
+This is the staff site used by ACE coordinators across OCUL and OCLS for submitting and viewing requests, community submissions, and usage data. The public facing side also serves as a learning guide for ACE users. The site features a custom Drupal module for handling request submissions and workflow. Recently, a content submission form was added for community scanned books to be ingested into the ACE repository.</description>
+    </item>
+    
+    <item>
+      <title>Admin</title>
+      <link>//bkawula.github.io/portfolio/admin/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/admin/</guid>
+      <description>SP Admin Tool https://admintool.scholarsportal.info (behind proxy)
+This is the backend site for the Books platform that allows our members to view their collections, get title lists, MARC, KBART, and usage data. For Scholars Portal staff it is used to assign entitlements, update IP range data, and edit metadata.
+                         Open in photo gallery  Member libraries can view entitled collections and access data like KBART lists, MARC records and COUNTER reports.</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>//bkawula.github.io/portfolio/books/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/books/</guid>
+      <description>Books https://books.scholarsportal.info
+Roles: Frontend development, UX design, data architecture, and project lead during initial development stage.
+Technology: MarkLogic, Java, Node.js, Angular, PDF.js, Redis
+Books is a platform that hosts electronic books from a variety of publishers, allowing OCUL members to store their digital content in a single place. It currently holds over 1,000,000 books from over 20 academic publishers. The site features an online web reader, a flexible DRM system, internationalization, and a built-in accessible content portal (ACE) where users can download the full text versions of all the content they are entitled to.</description>
+    </item>
+    
+    <item>
+      <title>Forms</title>
+      <link>//bkawula.github.io/portfolio/forms/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/forms/</guid>
+      <description>Forms https://forms.scholarsportal.info
+Roles: Frontend development and UX design.
+Technology: Drupal 8, PHP, Python
+Forms is a multipurpose Drupal instance that facilitates various community submitted data needs. At the moment it&amp;rsquo;s used for government document ingestion and a local load agreement for digital preservation.
+ Open in photo gallery  Forms logo.
+    Open in photo gallery  Forms home page.
+    Open in photo gallery  Scholars Portal Local Load Agreement form.</description>
+    </item>
+    
+    <item>
+      <title>Journals</title>
+      <link>//bkawula.github.io/portfolio/journals/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/journals/</guid>
+      <description>Journals https://journals.scholarsportal.info
+Roles: Frontend development and UX design.
+Technology: MarkLogic, Roxy, jQuery
+Journals is a light archive of consortially purchased serials collections that ensures the long term preservation of OCUL’s investments. With almost 60,000,000 articles it has become a valuable cross-disciplinary resource.
+ Open in photo gallery  Scholars Portal Journals home page and search form.
+    Open in photo gallery  The article page with full text display and features a citation generator.</description>
+    </item>
+    
+    <item>
+      <title>OCUL site</title>
+      <link>//bkawula.github.io/portfolio/ocul/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/ocul/</guid>
+      <description>OCUL https://ocul.on.ca
+Roles: Frontend development and UX design.
+Technology: Drupal 7, PHP
+The OCUL site is not just a public face for the organization, but a place for members in various management groups to interact and serves as an archive for storing vital institutional documents.
+ Open in photo gallery  OCUL home page with a slide box for highlights and quick links to the most accessed pages.
+    Open in photo gallery  The products page lists license data for purchased content and has public and restricted views depending on a user&amp;#39;s role.</description>
+    </item>
+    
+    <item>
+      <title>odesi site</title>
+      <link>//bkawula.github.io/portfolio/odesi/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/odesi/</guid>
+      <description>&amp;lt;odesi&amp;gt; https://odesi.ca
+Roles: Frontend development and UX design.
+Technology: MarkLogic, Node.js, Angular
+&amp;lt;odesi&amp;gt; is a repository of social science data that allows researchers to search across thousands of datasets.
+ Open in photo gallery  Home page and search form.
+    Open in photo gallery  Data set details page.
+    Open in photo gallery  On the fly variable charting.
+    </description>
+    </item>
+    
+    <item>
+      <title>Print</title>
+      <link>//bkawula.github.io/portfolio/print/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/print/</guid>
+      <description>Print &amp;amp; Branding  Open in photo gallery  Permafrost logo ideas.
+    Open in photo gallery  Isometric info graphic.
+    Open in photo gallery  Annual report design concept.
+    Open in photo gallery  Report cover page.
+    Open in photo gallery  Ontario Library Research Cloud logo and log in page.
+    Open in photo gallery  Dataverse one pager.</description>
+    </item>
+    
+    <item>
+      <title>Scholars Portal</title>
+      <link>//bkawula.github.io/portfolio/scholars/</link>
+      <pubDate>Sat, 13 Feb 2021 21:41:10 -0500</pubDate>
+      
+      <guid>//bkawula.github.io/portfolio/scholars/</guid>
+      <description>Scholars Portal https://scholarsportal.info
+Roles: UX design and content.
+Technology: Hugo
+This is the public site for Scholars Portal where members can easily access support information.
+ Open in photo gallery  Scholars Portal home page.
+    Open in photo gallery  Scholars Portal services section. Clicking on an icon opens a modal with more information.
+    </description>
+    </item>
+    
   </channel>
 </rss>
