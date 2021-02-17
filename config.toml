@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "//bkawula.github.io/portfolio/"
 languageCode = "en-us"
 title = "Bart Kawula Portfolio"
 theme = ""
