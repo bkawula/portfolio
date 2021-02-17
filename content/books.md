@@ -18,7 +18,7 @@ Books is a platform that hosts electronic books from a variety of publishers, al
 
 {{< load-photoswipe >}}
 {{< gallery caption-position="none" >}}
-{{< figure link="/images/books_home.png" alt="" thumb="-thumb" caption="Home page and search form." >}}
+{{< figure link="https://bkawula.github.io/portfolio/images/books_home.png" alt="" thumb="-thumb" caption="Home page and search form." >}}
 {{< figure link="/images/books_read.png" alt="" thumb="-thumb" caption="The reader page is designed to handle various licensing requirements and uses PDF.js to display the text like a PDF." >}}
 {{< figure link="/images/books_entitled.png" alt="" thumb="-thumb" caption="The platform provides EzProxy and Shibboleth log in links based on entitlements." >}}
 {{< figure link="/images/books_ace.png" alt="" thumb="-thumb" caption="An ACE respository title offering full text downloading." >}}
